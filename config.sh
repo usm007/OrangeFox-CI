@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Device
-export FOX_BRANCH="fox_11.0"
-export DT_LINK="https://github.com/clhexareslab/recovery_device_xiaomi_ares.git -b fox_11.0"
+export FOX_BRANCH="fox_12.0"
+export DT_LINK="https://github.com/twrpdtgen/android_device_xiaomi_yunluo.git -b fox_12.0"
 
-export DEVICE="ares"
+export DEVICE="yunluo"
 export OEM="xiaomi"
 export TARGET="bootimage"
 
